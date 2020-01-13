@@ -1,0 +1,5 @@
+Requirements for Laravel-A4:
+
+1. Create 2 N type table relations.
+2. Create 1 N-M type table relation.
+3. Create user roles.
